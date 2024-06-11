@@ -1,0 +1,10 @@
+n1 = int(input('digite o primeiro numero inteiro: '))
+n2 = int(input('digite o segundo numero inteiro: '))
+su = n1 + n2
+sb = n1 - n2
+ma = n1 * n2
+da = n1 / n2
+print(f"soma= {su}")
+print(f"subtração= {sb}")
+print(f"multiplicação= {ma}")
+print(f"divisão= {da}")

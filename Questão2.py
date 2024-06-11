@@ -1,9 +1,9 @@
-varialOne = False
-varialTwo = "Hello World"
-varialThree = 1.618
-varialFour = 490
+variavel1 = False
+variavel2 = "ola mundo"
+variavel3 = 876.98
+variavel4 = 78546
 
-print(f'A variável varialOne tem valor {varialOne} e é do tipo {type(varialOne)}')
-print(f'A variável varialTwo tem valor {varialTwo} e é do tipo {type(varialTwo)}')
-print(f'A variável varialThree tem valor {varialThree} e é do tipo {type(varialThree)}')
-print(f'A variável varialFour tem valor {varialFour} e é do tipo {type(varialFour)}')
+print(f'variavel1 tem valor {variavel1} e é {type(variavel1)}')
+print(f'variavel2 tem valor {variavel2} e é {type(variavel2)}')
+print(f'variavel3 tem valor {variavel3} e é {type(variavel3)}')
+print(f'variavel4 tem valor {variavel4} e é {type(variavel4)}')
